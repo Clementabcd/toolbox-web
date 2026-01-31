@@ -4,7 +4,6 @@
   "private": true,
   "description": "ToolBox Web - La boîte à outils ultime avec 30+ outils",
   "dependencies": {
-    "canvas": "^2.11.2",
     "crypto-js": "^4.2.0",
     "file-saver": "^2.0.5",
     "html2canvas": "^1.4.1",
